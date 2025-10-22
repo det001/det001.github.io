@@ -12,4 +12,5 @@ color-mode-toggle: true # Show toggle in the corner
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed        # Optional: RSS feed
+  - jekyll-feed         # Optional: RSS feed
+  - jekyll-remote-theme # Fetch theme from github
