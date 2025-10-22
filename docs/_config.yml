@@ -3,7 +3,6 @@ title: Det 001
 
 # Remote theme
 remote_theme: jekyll/minima@bf9ef98  # Use static Minima hash - github page directs this to avoid breaking with upcoming changes
-theme: minima                        # Required by GitHub Pages to detect theme
 
 # Color mode settings
 color-mode: auto        # Respect OS light/dark mode
