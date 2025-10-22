@@ -2,7 +2,7 @@
 title: Det 001
 
 # Remote theme
-remote_theme: jekyll/minima@bf9ef98  # Use static Minima hash - github page directs this to avoid breaking with upcoming changes
+remote_theme: jekyll/minima@v2.5.1  # Use static version - github page directs this to avoid breaking with upcoming changes
 
 # Color mode settings
 color-mode: auto        # Respect OS light/dark mode
