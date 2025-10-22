@@ -1,4 +1,7 @@
-remote_theme: "jekyll/minima@1e8a445"
+title: Det 001
+
+# Theme
+theme: "minima"
 color-mode: auto
 color-mode-toggle: true
-title: Det 001
+
