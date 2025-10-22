@@ -1,7 +1,15 @@
+# Site Settings
 title: Det 001
 
-# Theme
-theme: "minima"
-color-mode: auto
-color-mode-toggle: true
+# Remote theme
+remote_theme: jekyll/minima@bf9ef98  # Use static Minima hash - github page directs this to avoid breaking with upcoming changes
+theme: minima                        # Required by GitHub Pages to detect theme
 
+# Color mode settings
+color-mode: auto        # Respect OS light/dark mode
+color-mode-toggle: true # Show toggle in the corner
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed        # Optional: RSS feed
